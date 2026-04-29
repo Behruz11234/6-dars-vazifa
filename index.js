@@ -2,8 +2,8 @@ const http = require('http');
 
 // Ma'lumotlar bazasi (Vaqtincha xotirada)
 let staff = [
-    { id: 1, name: "Anvar Karimov", role: "Farmatsevt" },
-    { id: 2, name: "Malika Aliyeva", role: "Sotuvchi" }
+    { id: 1, name: "Amir karimov", role: "Farmatsevt" },
+    { id: 2, name: "Ruxsora", role: "Sotuvchi" }
 ];
 
 let medicines = [
