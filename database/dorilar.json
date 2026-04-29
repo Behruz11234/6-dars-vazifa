@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "name": "Paracetamol",
+    "name": "Bolnol",
     "price": 5000
   },
   {
     "id": "2",
-    "name": "Ibuprofen",
+    "name": "parsitamol",
     "price": 8000
   }
 ]
